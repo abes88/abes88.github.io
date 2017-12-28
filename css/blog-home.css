@@ -1,0 +1,22 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+header.jumbotron.my-4 {
+  height: 50vh;
+  min-height: 300px;
+  background-image: url('../images/services/cover.jpeg'); 
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
