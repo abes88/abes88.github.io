@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Blog Home (https://startbootstrap.com/template-overviews/blog-home)
+ * Start Bootstrap - 1 Col Portfolio (https://startbootstrap.com/template-overviews/1-col-portfolio)
  * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-blog-home/blob/master/LICENSE)
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-1-col-portfolio/blob/master/LICENSE)
  */
 
 body {
@@ -13,6 +13,7 @@ body {
     padding-top: 56px;
   }
 }
+
 header.jumbotron.my-4 {
   height: 50vh;
   min-height: 300px;
