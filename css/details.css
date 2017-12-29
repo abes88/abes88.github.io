@@ -15,7 +15,7 @@ body {
 }
 
 header.jumbotron.my-4 {
-  height: 50vh;
+  height: 40vh;
   min-height: 100px;
   background-image: url('../images/services/cover.jpeg'); 
   background-repeat: no-repeat;
@@ -33,4 +33,21 @@ header.jumbotron.my-4 {
 .pad{
   padding-bottom: 10%;
   padding-left: 1%
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding-left: 2%
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.patient_right {
+  text-align: left;
 }
