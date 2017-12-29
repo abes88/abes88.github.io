@@ -29,3 +29,8 @@ header.jumbotron.my-4 {
 .card {
   height: 100%;
 }
+
+.pad{
+  padding-bottom: 10%;
+  padding-left: 1%
+}
